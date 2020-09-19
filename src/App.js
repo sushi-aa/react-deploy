@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Typical from 'react-typical';
 
 function App() {
   return (
@@ -8,6 +9,20 @@ function App() {
     <div>
       HELLO! THIS IS A TEST
     </div>
+    
+    <p>
+        I am {' '}
+        <Typical
+          loop={Infinity}
+          wrapper='b'
+          steps={[
+            'just trying this out ', 2000,
+            'experimenting ', 2000,
+            'creating a website on gh pages ', 2000,
+            'doing a typerwriter effect ', 2000,
+          ]}
+        />
+      </p>
     </>
   )
 }
