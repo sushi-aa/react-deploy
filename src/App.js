@@ -6,7 +6,7 @@ function App() {
   return (
     <>
     <div>
-      HELLO, THIS IS A TEST
+      HELLO! THIS IS A TEST
     </div>
     </>
   )
