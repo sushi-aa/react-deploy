@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a8854728260ceed40cec85f41c768c8",
+    "revision": "394d2c65af6d9141c37146929dcf509e",
     "url": "/react-deploy/index.html"
   },
   {
-    "revision": "0c9b9489aa833a566b74",
-    "url": "/react-deploy/static/css/main.3e176d91.chunk.css"
+    "revision": "4be917377b8a37195afc",
+    "url": "/react-deploy/static/css/main.53fd308f.chunk.css"
   },
   {
-    "revision": "34890ae5e05ca0300702",
-    "url": "/react-deploy/static/js/2.90f90c64.chunk.js"
+    "revision": "83677f4044e724df2c71",
+    "url": "/react-deploy/static/js/2.a8f9b107.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/react-deploy/static/js/2.90f90c64.chunk.js.LICENSE.txt"
+    "url": "/react-deploy/static/js/2.a8f9b107.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c9b9489aa833a566b74",
-    "url": "/react-deploy/static/js/main.3e8f524d.chunk.js"
+    "revision": "4be917377b8a37195afc",
+    "url": "/react-deploy/static/js/main.61e26ab1.chunk.js"
   },
   {
     "revision": "176847e9b27726a77542",
