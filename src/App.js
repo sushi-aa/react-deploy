@@ -2,6 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Typical from 'react-typical';
+//import Title from './Title';
+import {AnimatedText} from "./AnimatedText";
 
 function App() {
   return (
@@ -23,8 +25,15 @@ function App() {
           ]}
         />
       </p>
+
+    <div className="App">
+      <AnimatedText textColor="#ffffff" overlayColor="#bb23fe" >
+        HOVER OVER ME
+      </AnimatedText>
+    </div>
+
     </>
-  )
+  );
 }
 
 export default App;
