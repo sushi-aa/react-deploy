@@ -22,12 +22,13 @@ function App() {
             'experimenting ', 2000,
             'creating a website on gh pages ', 2000,
             'doing a typerwriter effect ', 2000,
+            'loving VSCode ', 2000,
           ]}
         />
       </p>
 
     <div className="App">
-      <AnimatedText textColor="#ffffff" overlayColor="#bb23fe" >
+      <AnimatedText textColor="#000000" overlayColor="#bb23fe" >
         HOVER OVER ME
       </AnimatedText>
     </div>
