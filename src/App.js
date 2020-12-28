@@ -27,7 +27,7 @@ function App() {
       </p>
 
     <div className="App">
-      <AnimatedText textColor="#ffffff" overlayColor="#bb23fe" >
+      <AnimatedText textColor="#000000" overlayColor="#bb23fe" >
         HOVER OVER ME
       </AnimatedText>
     </div>
